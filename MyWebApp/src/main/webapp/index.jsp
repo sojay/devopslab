@@ -6,7 +6,7 @@
     <title>The DevOps Laboratory</title>
 </head>
 <body>
-	<h2>Hello Champs! We are learning SonarQube code quality integration!</h2>
+	<h2>Hello Champs! We are learning Slack integration quality integration!</h2>
 	<p>DevOps is fun!!!</p>
 </body>
 </html>
